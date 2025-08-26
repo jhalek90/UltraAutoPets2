@@ -15,8 +15,8 @@
   "name":"objActor",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"main objects",
+    "path":"folders/Objects/main objects.yy",
   },
   "parentObjectId":null,
   "persistent":false,

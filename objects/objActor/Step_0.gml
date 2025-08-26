@@ -32,6 +32,7 @@ if state="collecting"{
 			//if we are too far away to mine, we walk there
 			if point_distance(x,y,collectTarget.x,collectTarget.y )>32{
 				if myPath=-1{
+					task="farm"
 					var _x=collectTarget.x+random_range(-32,32)
 					var _y=collectTarget.y+random_range(-32,32)
 					actorPathToPoint(_x,_y)
