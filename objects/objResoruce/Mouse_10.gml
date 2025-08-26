@@ -1,0 +1,2 @@
+/// @description Event
+hover=true
